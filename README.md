@@ -7,10 +7,11 @@
 # IMPORTANT NOTE
 - Before following instructions for running on linux, you must enter a virtual enviroment.
 - Open a visual studio code terminal, then type: (python3 -m venv YTDownloader)
-- Type: (source YTDownloader/bin/activate)
 - Press: (ctrl+shift+p)
 - Type: Python: Select Interpreter
+- Select the virtual enviroment you just created (YTDownloader)
 - Reset Visual Studio Code
+- Type: (source YTDownloader/bin/activate)
 
 # Instrcutions #1 - Windows
 --- Requirements ---
